@@ -3,10 +3,12 @@
 Each architecture was trained on the Cifar-10 dataset and represent error for training different models for image detection. 
 
 Features/labels: 
+    
     >200 features,
     and two sets of labels.
 
 Deep neural network architecture:
+    
     2 hidden layers,
     a sigmoid activation function,
     batch normalization,
