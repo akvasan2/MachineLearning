@@ -1,4 +1,4 @@
-# Deep neural network fit to a dataset of textual descriptors of different neural network architectures
+# Deep neural network fit to a dataset of textual descriptors of different neural network architectures (for CS 446)
 
 Each architecture was trained on the Cifar-10 dataset and represent error for training different models for image detection. 
 
